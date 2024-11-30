@@ -1,0 +1,12 @@
+header {
+    width: 40%;
+    height: 20rem;
+    background-color: antiquewhite;
+    margin-left: 25rem;
+    margin-top: 8rem;
+    border-radius: 10px;
+}
+
+.login {
+    margin-left: 3rem;
+}
